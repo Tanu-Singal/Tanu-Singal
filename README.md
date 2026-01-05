@@ -1,4 +1,16 @@
-## Hi there 👋
+Hi, I'm Tanisha 👋  
+Backend & Web Developer transitioning into Machine Learning  
+
+Tech:
+- React | JavaScript | SQL
+- Node.js | Express | MongoDB
+- C++
+- Git & Open Source
+
+Currently:
+- Learning ML fundamentals
+- Contributing to open source
+- Preparing for GSoC / Outreachy / MLH Fellowship
 
 <!--
 **Tanu-Singal/Tanu-Singal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
